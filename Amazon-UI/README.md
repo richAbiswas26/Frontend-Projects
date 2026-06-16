@@ -1,0 +1,1 @@
+A responsive Amazon front page clone built using HTML and CSS. It features a header with navigation, search bar, product sections, and a footer—mimicking the layout and design of the original site. This project showcases my frontend development and UI/UX design skills.
